@@ -2,3 +2,6 @@
 
 ## HW1 
 KNN and Linear Regression through optimisation
+
+## HW2
+Lasso Regression and Cross Validation
