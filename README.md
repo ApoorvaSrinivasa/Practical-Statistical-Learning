@@ -8,3 +8,6 @@ Lasso Regression and Cross Validation
 
 ## HW3
 Splines and Kernel Regression
+
+## HW 4
+Decision Trees and Random Forests
